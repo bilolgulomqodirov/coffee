@@ -1,0 +1,53 @@
+
+.section-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    width: 45%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.section-kartochki {
+    font-size: 24px;
+    color: #333;
+    margin: 0 0 10px 0;
+    display: flex;
+margin: 0 auto;
+
+
+
+}
+.section-text{
+font-family: Roboto;
+font-weight: 700;
+font-size: 50px;
+text-align: center;
+
+
+}
+
+.section-img{
+    width: 452px;
+    height: 375px;
+}
+.section-h1{
+font-family: Roboto;
+font-weight: 500;
+font-size: 48px;
+}
+.section-yozuv{
+    display: flex;
+    flex-direction: column;
+    padding: 50 0px;
+}
+.section-p{
+font-family: Roboto;
+font-weight: 400;
+font-size: 22px;
+}
